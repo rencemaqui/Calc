@@ -1,5 +1,7 @@
 /* Add all your styles here */
-
+        body{
+           background-color:#8D8D8D;
+        }
         table {
             border: 1px solid black;
             margin-left: auto;
